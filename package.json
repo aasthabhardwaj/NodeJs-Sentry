@@ -1,0 +1,16 @@
+{
+  "name": "sentry-node-429",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js localhost 8080"
+  },
+  "dependencies": {
+    "@sentry/node": "4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
