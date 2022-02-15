@@ -10,7 +10,7 @@ class MyTransport {
 
 Sentry.init({
   debug: true,
-  dsn: "https://examplePublicKey@o0.ingest.sentry.io/0",
+  dsn: "https://8e2577081f00402aa4d3b63d4fc400de@o1144870.ingest.sentry.io/6209339",
   transport: MyTransport
 });
 
